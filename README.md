@@ -1,5 +1,6 @@
 # critical-systems-CW1
 
+- Grade : 100%
 
 # Question 1
 In this question we consider numbers in the range 0 . . . 999 which are represented by its three digits,
